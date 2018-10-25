@@ -1,0 +1,9 @@
+1.安装TNT破解版
+
+2.安装完成之后 复制”汉化文件夹”放到 /Applications/Navicat Premium.app/Contents/Resources
+
+3.汉化完成done
+
+PS:这个zh-Hans.lproj 汉化文件是从 Navicat Premium 12.0.12官方中文版提取 无毒无害 
+
+好演员!只做网络资源搬运一切资源只用于学习和交流请勿非法使用
